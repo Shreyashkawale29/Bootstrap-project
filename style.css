@@ -1,0 +1,71 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.row {
+    position: relative;
+    background-color: white;
+    top: 4rem;
+    right: 4rem;
+    width: 77rem;
+    height: 26rem;
+    box-shadow: 3px 12px 27px 3px;
+    border-radius: 30px;
+}
+
+img {
+    width: 35rem;
+    margin: 20px;
+    height: auto;
+    border-radius: 30px;
+    box-shadow: 1px 12px 20px;
+}
+
+.rowin {
+    position: absolute;
+    background-color: white;
+    box-shadow: 3px 12px 27px 3px;
+    border-radius: 30px;
+    left: 37rem;
+    top: 1.2rem;
+    height: 23.5rem;
+}
+
+h3 {
+    color: dodgerblue;
+}
+
+input {
+    border-color: dodgerblue;
+}
+
+input::after {
+    border-color: dodgerblue;
+}
+
+.fa-facebook {
+    padding: 10px;
+    color: blue;
+}
+
+.fa-google {
+    padding: 10px;
+    color: lightgreen;
+}
+
+.fa-instagram {
+    padding: 10px;
+    color: deeppink;
+}
+
+.fa-twitter {
+    padding: 10px;
+    color: darkturquoise;
+}
+
+.fa-envelope {
+    padding: 10px;
+    color: dodgerblue;
+}
